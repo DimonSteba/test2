@@ -1,0 +1,4 @@
+git status
+git add .
+git rm --cached имя
+git commit -a -m"init"
